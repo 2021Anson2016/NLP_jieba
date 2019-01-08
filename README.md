@@ -29,6 +29,7 @@ else:
    i = 0
    
 http://cpmarkchang.logdown.com/posts/193915-natural-language-processing-tf-idf
+
 1.Introduction
 所謂的 TF-IDF , 是用來找出一篇文章中, 足以代表這篇文章的關鍵字的方法
 
