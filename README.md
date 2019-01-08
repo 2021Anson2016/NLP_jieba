@@ -1,7 +1,11 @@
 # NLP_jieba
 筆記
+(1). [注意：]
+安裝jieba路徑和自己下載的jieba套件會衝突，
+故要把在D:\Python 3.5\Lib\site-packages下的jieba刪掉!
 
-(4)
+
+(2)
 提供一些討論完整的相關資源
 
 英文
